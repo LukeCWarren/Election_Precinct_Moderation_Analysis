@@ -1,0 +1,148 @@
+﻿Precinct,Ballots (2024),Turnout % (2024),Pos 1 winner share (2024),Pos 1 margin (2024 pts),Pos 1 closeness band,Pos 2 winner share (2024),Pos 2 margin (2024 pts),Pos 2 closeness band,Doglio share 2022 (Pos 1),Doglio share 2024 (Pos 1),Doglio change (pts),Doglio change band,Opportunity Score,Tier
+WOODARD CREEK 047,538.0,81.8,55.8,12.5,Close (10-20 pts),54.6,12.2,Close (10-20 pts),56.4,55.8,-0.5,Flat (+/-2 pts),83.0,TIER 1 - TOP
+LACEY #4 304,402.0,72.2,57.2,16.0,Close (10-20 pts),53.8,11.9,Close (10-20 pts),57.9,57.2,-0.7,Flat (+/-2 pts),77.6,TIER 1 - TOP
+HAWK ACRES 076,540.0,79.2,49.5,0.6,Very close (<=10 pts),57.7,21.5,One-sided (20-35 pts),43.6,48.9,5.3,Up 5+ pts,76.4,TIER 1 - TOP
+ROOSEVELT 112,749.0,84.2,57.5,15.5,Close (10-20 pts),58.0,17.4,Close (10-20 pts),54.9,57.5,2.6,Up 2-5 pts,71.5,TIER 1 - TOP
+LACEY #19 319,385.0,71.4,56.5,13.8,Close (10-20 pts),54.6,15.6,Close (10-20 pts),52.8,56.5,3.7,Up 2-5 pts,69.4,TIER 2 - HIGH
+TUMWATER #9 409,487.0,81.3,57.0,14.7,Close (10-20 pts),59.6,23.3,One-sided (20-35 pts),57.1,57.0,-0.1,Flat (+/-2 pts),68.8,TIER 2 - HIGH
+LACEY #20 320,228.0,77.6,61.1,22.7,One-sided (20-35 pts),59.2,21.8,One-sided (20-35 pts),66.3,61.1,-5.2,Down 5+ pts,68.0,TIER 2 - HIGH
+PLEASANT GLADE 109,379.0,81.2,55.7,12.6,Close (10-20 pts),58.4,22.8,One-sided (20-35 pts),52.2,55.7,3.6,Up 2-5 pts,65.3,TIER 2 - HIGH
+PATTISON WEST 178,236.0,79.2,58.8,18.2,Close (10-20 pts),61.3,24.1,One-sided (20-35 pts),60.4,58.8,-1.5,Flat (+/-2 pts),65.0,TIER 2 - HIGH
+LACEY #17 317,627.0,80.7,58.9,18.4,Close (10-20 pts),59.1,21.8,One-sided (20-35 pts),57.2,58.9,1.6,Flat (+/-2 pts),64.6,TIER 2 - HIGH
+LACEY #5 305,330.0,82.5,59.3,18.6,Close (10-20 pts),58.7,19.8,Close (10-20 pts),57.0,59.3,2.2,Up 2-5 pts,64.4,TIER 2 - HIGH
+FRIENDLY GROVE 104,376.0,84.9,54.6,9.4,Very close (<=10 pts),58.9,22.3,One-sided (20-35 pts),47.1,54.6,7.5,Up 5+ pts,63.9,TIER 2 - HIGH
+LACEY #24 324,1049.0,76.4,56.9,14.8,Close (10-20 pts),58.4,20.8,One-sided (20-35 pts),50.2,56.9,6.7,Up 5+ pts,62.6,TIER 2 - HIGH
+SOUTH BAY 105,687.0,82.6,56.8,15.8,Close (10-20 pts),58.8,22.5,One-sided (20-35 pts),51.6,56.8,5.3,Up 5+ pts,61.6,TIER 2 - HIGH
+JOHNSON POINT 160,727.0,89.1,54.9,10.6,Close (10-20 pts),63.4,30.4,One-sided (20-35 pts),48.4,54.9,6.5,Up 5+ pts,58.4,TIER 2 - HIGH
+TUMWATER #3 403,812.0,80.6,63.9,28.7,One-sided (20-35 pts),60.2,23.5,One-sided (20-35 pts),65.4,63.9,-1.5,Flat (+/-2 pts),58.0,TIER 2 - HIGH
+TUMWATER #11 411,1011.0,83.1,63.4,27.5,One-sided (20-35 pts),61.4,25.4,One-sided (20-35 pts),63.4,63.4,-0.0,Flat (+/-2 pts),56.4,TIER 2 - HIGH
+LACEY #27 327,630.0,78.5,62.3,24.7,One-sided (20-35 pts),58.4,20.0,Close (10-20 pts),58.0,62.3,4.3,Up 2-5 pts,55.6,TIER 2 - HIGH
+LACEY #29 329,949.0,70.8,61.6,24.4,One-sided (20-35 pts),61.7,28.8,One-sided (20-35 pts),62.5,61.6,-0.9,Flat (+/-2 pts),54.8,TIER 3 - MED
+TUMWATER #10 410,1066.0,80.0,64.1,28.4,One-sided (20-35 pts),59.0,20.8,One-sided (20-35 pts),60.4,64.1,3.7,Up 2-5 pts,54.2,TIER 3 - MED
+OLYMPIA #7 207,615.0,70.9,76.0,52.3,Landslide (>35 pts),50.8,3.2,Very close (<=10 pts),78.6,76.0,-2.6,Down 2-5 pts,53.6,TIER 3 - MED
+LACEY #42 342,231.0,58.2,64.1,28.8,One-sided (20-35 pts),61.3,24.9,One-sided (20-35 pts),67.5,64.1,-3.3,Down 2-5 pts,52.3,TIER 3 - MED
+LACEY #54 354,725.0,71.5,58.9,18.5,Close (10-20 pts),60.7,27.4,One-sided (20-35 pts),53.7,58.9,5.2,Up 5+ pts,52.1,TIER 3 - MED
+OLYMPIA #57 257,406.0,73.3,75.2,50.7,Landslide (>35 pts),49.3,2.3,Very close (<=10 pts),75.2,75.2,0.0,Flat (+/-2 pts),51.7,TIER 3 - MED
+OLYMPIA #31 231,436.0,83.2,63.0,26.4,One-sided (20-35 pts),61.3,25.3,One-sided (20-35 pts),59.6,63.0,3.4,Up 2-5 pts,49.9,TIER 3 - MED
+TUMWATER #4 404,478.0,69.0,67.8,37.0,Landslide (>35 pts),56.0,14.7,Close (10-20 pts),66.1,67.8,1.8,Flat (+/-2 pts),49.8,TIER 3 - MED
+TUMWATER #28 428,1053.0,81.2,63.0,27.0,One-sided (20-35 pts),59.2,23.5,One-sided (20-35 pts),56.9,63.0,6.1,Up 5+ pts,49.5,TIER 3 - MED
+TUMWATER #32 432,832.0,83.2,59.5,20.4,One-sided (20-35 pts),61.3,28.7,One-sided (20-35 pts),52.9,59.5,6.7,Up 5+ pts,49.4,TIER 3 - MED
+TUMWATER #5 405,933.0,78.2,59.8,20.2,One-sided (20-35 pts),61.6,29.9,One-sided (20-35 pts),54.0,59.8,5.8,Up 5+ pts,49.3,TIER 3 - MED
+BIGELOW 107,531.0,87.2,65.0,30.4,One-sided (20-35 pts),59.8,21.8,One-sided (20-35 pts),60.6,65.0,4.4,Up 2-5 pts,49.2,TIER 3 - MED
+TUMWATER #14 414,379.0,85.6,62.0,24.7,One-sided (20-35 pts),63.9,31.3,One-sided (20-35 pts),60.7,62.0,1.4,Flat (+/-2 pts),48.8,TIER 3 - MED
+PUGET 106,857.0,90.0,59.9,20.5,One-sided (20-35 pts),63.6,30.6,One-sided (20-35 pts),53.1,59.9,6.8,Up 5+ pts,48.7,TIER 3 - MED
+AMES 063,501.0,87.0,67.7,35.6,Landslide (>35 pts),62.3,25.4,One-sided (20-35 pts),68.3,67.7,-0.6,Flat (+/-2 pts),47.7,TIER 3 - MED
+HENDERSON 176,830.0,83.6,59.6,19.6,Close (10-20 pts),67.0,36.5,Landslide (>35 pts),56.1,59.6,3.5,Up 2-5 pts,47.3,TIER 3 - MED
+OLYMPIA #46 246,637.0,81.2,67.4,35.4,Landslide (>35 pts),60.6,23.7,One-sided (20-35 pts),66.5,67.4,0.9,Flat (+/-2 pts),46.8,TIER 3 - MED
+LIBBY 195,497.0,84.4,66.6,33.4,One-sided (20-35 pts),61.5,26.0,One-sided (20-35 pts),65.9,66.6,0.7,Flat (+/-2 pts),46.8,TIER 3 - MED
+OLYMPIA #23 223,731.0,86.7,80.2,60.9,Landslide (>35 pts),52.3,5.9,Very close (<=10 pts),83.4,80.2,-3.2,Down 2-5 pts,46.8,TIER 3 - MED
+LUHR BEACH 065,726.0,85.8,57.5,15.5,Close (10-20 pts),67.1,38.4,Landslide (>35 pts),52.1,57.5,5.4,Up 5+ pts,46.6,TIER 3 - MED
+TUMWATER #31 431,835.0,81.1,59.9,20.0,One-sided (20-35 pts),62.2,26.7,One-sided (20-35 pts),49.9,59.9,10.0,Up 5+ pts,46.4,TIER 3 - MED
+LACEY #9 309,411.0,69.4,65.9,33.1,One-sided (20-35 pts),57.3,17.8,Close (10-20 pts),61.4,65.9,4.5,Up 2-5 pts,46.3,TIER 3 - MED
+LACEY #32 332,766.0,71.3,63.4,28.2,One-sided (20-35 pts),59.6,23.7,One-sided (20-35 pts),57.6,63.4,5.7,Up 5+ pts,45.5,TIER 3 - MED
+LACEY #13 313,312.0,75.0,65.6,32.6,One-sided (20-35 pts),59.8,23.4,One-sided (20-35 pts),63.4,65.6,2.2,Up 2-5 pts,45.4,TIER 3 - MED
+SLEATER KINNEY 189,632.0,72.2,61.8,24.9,One-sided (20-35 pts),59.8,23.5,One-sided (20-35 pts),53.9,61.8,8.0,Up 5+ pts,45.2,TIER 3 - MED
+LACEY #41 341,472.0,80.0,60.0,20.3,One-sided (20-35 pts),63.8,29.7,One-sided (20-35 pts),52.6,60.0,7.5,Up 5+ pts,45.1,TIER 3 - MED
+HOLMES 168,532.0,82.5,58.7,18.5,Close (10-20 pts),65.6,34.8,One-sided (20-35 pts),52.6,58.7,6.2,Up 5+ pts,44.4,TIER 3 - MED
+LACEY #28 328,396.0,80.8,57.7,17.5,Close (10-20 pts),62.6,29.8,One-sided (20-35 pts),47.8,57.7,9.9,Up 5+ pts,44.0,TIER 3 - MED
+TUMWATER #33 433,509.0,87.3,60.1,21.1,One-sided (20-35 pts),69.0,41.7,Landslide (>35 pts),59.4,60.1,0.7,Flat (+/-2 pts),44.0,TIER 3 - MED
+LACEY #46 346,840.0,75.4,61.5,24.3,One-sided (20-35 pts),60.7,27.7,One-sided (20-35 pts),54.1,61.5,7.4,Up 5+ pts,43.9,TIER 3 - MED
+LACEY #8 308,489.0,70.7,68.6,37.1,Landslide (>35 pts),57.5,15.7,Close (10-20 pts),62.8,68.6,5.8,Up 5+ pts,43.1,TIER 3 - MED
+LACEY #30 330,900.0,75.6,61.4,24.1,One-sided (20-35 pts),66.9,37.3,Landslide (>35 pts),58.9,61.4,2.4,Up 2-5 pts,42.4,TIER 3 - MED
+LACEY #3 303,541.0,73.8,62.0,24.8,One-sided (20-35 pts),61.0,27.8,One-sided (20-35 pts),54.9,62.0,7.1,Up 5+ pts,42.2,TIER 3 - MED
+OLYMPIA #24 224,560.0,89.0,78.2,57.2,Landslide (>35 pts),51.9,5.4,Very close (<=10 pts),75.2,78.2,3.0,Up 2-5 pts,41.3,TIER 3 - MED
+LACEY #39 339,873.0,78.0,66.4,33.0,One-sided (20-35 pts),64.5,31.1,One-sided (20-35 pts),64.7,66.4,1.6,Flat (+/-2 pts),41.2,TIER 3 - MED
+LACEY #2 302,651.0,70.2,63.9,28.1,One-sided (20-35 pts),64.1,31.1,One-sided (20-35 pts),60.7,63.9,3.2,Up 2-5 pts,41.2,TIER 3 - MED
+LACEY #34 334,252.0,75.7,60.7,23.6,One-sided (20-35 pts),62.9,34.6,One-sided (20-35 pts),56.7,60.7,4.0,Up 2-5 pts,40.3,TIER 3 - MED
+TUMWATER #6 406,886.0,83.9,66.0,32.6,One-sided (20-35 pts),63.4,30.4,One-sided (20-35 pts),62.0,66.0,4.0,Up 2-5 pts,40.0,TIER 3 - MED
+TUMWATER #30 430,546.0,75.1,68.4,36.9,Landslide (>35 pts),61.7,25.7,One-sided (20-35 pts),65.4,68.4,3.0,Up 2-5 pts,38.6,TIER 4 - LOW
+OLYMPIA #1 201,658.0,85.9,81.8,64.1,Landslide (>35 pts),53.4,8.1,Very close (<=10 pts),82.7,81.8,-0.9,Flat (+/-2 pts),37.5,TIER 4 - LOW
+OLYMPIA #43 243,638.0,85.3,78.1,56.6,Landslide (>35 pts),57.6,16.2,Close (10-20 pts),79.6,78.1,-1.5,Flat (+/-2 pts),37.5,TIER 4 - LOW
+LACEY #7 307,653.0,76.0,69.0,38.7,Landslide (>35 pts),60.5,24.3,One-sided (20-35 pts),65.0,69.0,4.0,Up 2-5 pts,37.4,TIER 4 - LOW
+LACEY #15 315,682.0,76.2,64.4,29.3,One-sided (20-35 pts),65.0,34.7,One-sided (20-35 pts),60.9,64.4,3.5,Up 2-5 pts,37.2,TIER 4 - LOW
+FISHTRAP 066,530.0,90.4,66.3,33.5,One-sided (20-35 pts),66.4,35.7,Landslide (>35 pts),64.0,66.3,2.2,Up 2-5 pts,36.1,TIER 4 - LOW
+LACEY #14 314,280.0,67.0,66.8,33.6,One-sided (20-35 pts),59.8,22.8,One-sided (20-35 pts),59.5,66.8,7.3,Up 5+ pts,35.6,TIER 4 - LOW
+OLYMPIA #2 202,969.0,76.3,77.1,54.4,Landslide (>35 pts),53.6,10.5,Close (10-20 pts),72.1,77.1,5.0,Up 2-5 pts,35.4,TIER 4 - LOW
+OLYMPIA #27 227,340.0,71.9,72.4,44.7,Landslide (>35 pts),62.9,27.8,One-sided (20-35 pts),74.8,72.4,-2.4,Down 2-5 pts,35.3,TIER 4 - LOW
+OLYMPIA #9 209,1040.0,87.1,73.4,47.2,Landslide (>35 pts),60.1,22.4,One-sided (20-35 pts),69.7,73.4,3.6,Up 2-5 pts,35.2,TIER 4 - LOW
+OLYMPIA #18 218,549.0,85.6,83.7,67.7,Landslide (>35 pts),53.6,7.4,Very close (<=10 pts),85.2,83.7,-1.5,Flat (+/-2 pts),34.8,TIER 4 - LOW
+OLYMPIA #3 203,762.0,88.0,75.4,52.1,Landslide (>35 pts),59.0,21.6,One-sided (20-35 pts),75.0,75.4,0.4,Flat (+/-2 pts),34.8,TIER 4 - LOW
+JONES BEACH 039,874.0,86.7,60.7,22.3,One-sided (20-35 pts),68.2,40.4,Landslide (>35 pts),52.6,60.7,8.1,Up 5+ pts,34.6,TIER 4 - LOW
+OLYMPIA #45 245,443.0,73.2,70.8,42.6,Landslide (>35 pts),62.6,27.9,One-sided (20-35 pts),70.9,70.8,-0.1,Flat (+/-2 pts),34.6,TIER 4 - LOW
+TUMWATER #8 408,657.0,81.9,71.5,43.4,Landslide (>35 pts),60.5,22.4,One-sided (20-35 pts),66.7,71.5,4.8,Up 2-5 pts,34.5,TIER 4 - LOW
+TUMWATER #24 424,497.0,80.2,63.1,27.8,One-sided (20-35 pts),64.9,34.3,One-sided (20-35 pts),56.4,63.1,6.7,Up 5+ pts,34.4,TIER 4 - LOW
+TUMWATER #1 401,687.0,76.3,74.7,49.9,Landslide (>35 pts),59.7,21.4,One-sided (20-35 pts),74.1,74.7,0.6,Flat (+/-2 pts),34.4,TIER 4 - LOW
+LACEY #31 331,642.0,70.8,65.3,30.9,One-sided (20-35 pts),63.6,29.2,One-sided (20-35 pts),58.1,65.3,7.2,Up 5+ pts,34.4,TIER 4 - LOW
+LACEY #33 333,419.0,69.5,66.8,33.9,One-sided (20-35 pts),63.7,31.0,One-sided (20-35 pts),63.6,66.8,3.2,Up 2-5 pts,34.3,TIER 4 - LOW
+OLYMPIA #37 237,992.0,84.4,73.0,46.5,Landslide (>35 pts),59.7,21.5,One-sided (20-35 pts),68.1,73.0,4.9,Up 2-5 pts,34.2,TIER 4 - LOW
+TUMWATER #12 412,624.0,87.0,68.7,38.1,Landslide (>35 pts),63.8,30.2,One-sided (20-35 pts),64.6,68.7,4.1,Up 2-5 pts,33.9,TIER 4 - LOW
+LACEY #40 340,947.0,72.8,65.6,32.0,One-sided (20-35 pts),64.9,33.0,One-sided (20-35 pts),60.0,65.6,5.6,Up 5+ pts,33.7,TIER 4 - LOW
+OLYMPIA #58 258,632.0,72.1,70.6,41.6,Landslide (>35 pts),63.5,29.2,One-sided (20-35 pts),69.7,70.6,0.9,Flat (+/-2 pts),33.4,TIER 4 - LOW
+WOODLAND 088,451.0,88.4,64.8,29.9,One-sided (20-35 pts),66.2,35.4,Landslide (>35 pts),58.4,64.8,6.4,Up 5+ pts,32.9,TIER 4 - LOW
+LACEY #48 348,1034.0,80.7,63.8,28.2,One-sided (20-35 pts),64.9,33.8,One-sided (20-35 pts),54.1,63.8,9.7,Up 5+ pts,32.4,TIER 4 - LOW
+OLYMPIA #48 248,985.0,77.4,68.5,38.0,Landslide (>35 pts),62.6,28.8,One-sided (20-35 pts),62.5,68.5,6.0,Up 5+ pts,32.3,TIER 4 - LOW
+LACEY #18 318,621.0,79.5,64.0,29.3,One-sided (20-35 pts),65.6,34.2,One-sided (20-35 pts),56.5,64.0,7.5,Up 5+ pts,32.2,TIER 4 - LOW
+OLYMPIA #47 247,743.0,84.9,76.1,52.6,Landslide (>35 pts),60.1,22.2,One-sided (20-35 pts),74.8,76.1,1.2,Flat (+/-2 pts),31.9,TIER 4 - LOW
+KAISER 035,257.0,88.6,68.4,36.7,Landslide (>35 pts),68.6,39.0,Landslide (>35 pts),68.6,68.4,-0.2,Flat (+/-2 pts),31.6,TIER 4 - LOW
+LACEY #55 355,773.0,73.9,64.8,30.9,One-sided (20-35 pts),66.8,36.8,Landslide (>35 pts),59.8,64.8,5.0,Up 5+ pts,31.3,TIER 4 - LOW
+BEACH CREST 183,450.0,86.0,67.1,34.4,One-sided (20-35 pts),65.1,33.1,One-sided (20-35 pts),61.2,67.1,5.8,Up 5+ pts,31.2,TIER 4 - LOW
+OLYMPIA #17 217,360.0,74.8,68.2,37.4,Landslide (>35 pts),63.5,29.9,One-sided (20-35 pts),64.0,68.2,4.2,Up 2-5 pts,31.2,TIER 4 - LOW
+LACEY #35 335,310.0,70.1,71.0,42.4,Landslide (>35 pts),61.7,26.2,One-sided (20-35 pts),68.3,71.0,2.7,Up 2-5 pts,31.1,TIER 4 - LOW
+BUTLER COVE 135,513.0,88.9,69.3,39.1,Landslide (>35 pts),65.1,32.6,One-sided (20-35 pts),65.7,69.3,3.6,Up 2-5 pts,31.1,TIER 4 - LOW
+OLYMPIA #59 259,541.0,82.3,78.7,58.6,Landslide (>35 pts),56.5,15.5,Close (10-20 pts),77.0,78.7,1.7,Flat (+/-2 pts),30.5,TIER 4 - LOW
+GULL HARBOR 103,355.0,88.5,72.4,45.4,Landslide (>35 pts),64.0,30.1,One-sided (20-35 pts),71.4,72.4,1.0,Flat (+/-2 pts),30.4,TIER 4 - LOW
+OLYMPIA #19 219,625.0,76.8,76.5,53.4,Landslide (>35 pts),59.5,21.1,One-sided (20-35 pts),75.5,76.5,1.0,Flat (+/-2 pts),30.4,TIER 4 - LOW
+PLAINVIEW 139,913.0,89.7,70.6,41.3,Landslide (>35 pts),65.2,32.9,One-sided (20-35 pts),66.8,70.6,3.8,Up 2-5 pts,30.3,TIER 4 - LOW
+OLYMPIA #44 244,300.0,84.8,88.0,76.8,Landslide (>35 pts),53.4,8.7,Very close (<=10 pts),94.2,88.0,-6.1,Down 5+ pts,30.1,TIER 4 - LOW
+ZANGLE 101,510.0,91.1,70.0,41.1,Landslide (>35 pts),66.6,35.5,Landslide (>35 pts),68.4,70.0,1.6,Flat (+/-2 pts),29.7,TIER 4 - LOW
+LACEY #21 321,272.0,76.8,67.0,34.7,One-sided (20-35 pts),64.4,31.3,One-sided (20-35 pts),60.7,67.0,6.2,Up 5+ pts,29.5,TIER 4 - LOW
+OLYMPIA #20 220,302.0,81.6,78.1,57.2,Landslide (>35 pts),58.3,18.4,Close (10-20 pts),77.5,78.1,0.6,Flat (+/-2 pts),29.4,TIER 4 - LOW
+OLYMPIA #5 205,670.0,77.0,82.7,65.8,Landslide (>35 pts),55.9,13.5,Close (10-20 pts),83.8,82.7,-1.1,Flat (+/-2 pts),29.0,TIER 4 - LOW
+OLYMPIA #12 212,692.0,70.4,77.8,56.1,Landslide (>35 pts),57.6,18.0,Close (10-20 pts),74.7,77.8,3.1,Up 2-5 pts,26.7,TIER 4 - LOW
+TUMWATER #2 402,523.0,86.0,76.8,54.1,Landslide (>35 pts),60.3,21.7,One-sided (20-35 pts),73.2,76.8,3.6,Up 2-5 pts,26.5,TIER 4 - LOW
+OLYMPIA #30 230,532.0,88.1,82.4,65.0,Landslide (>35 pts),58.6,18.7,Close (10-20 pts),83.4,82.4,-1.0,Flat (+/-2 pts),25.9,TIER 4 - LOW
+LACEY #43 343,934.0,71.3,65.3,31.4,One-sided (20-35 pts),66.8,37.9,Landslide (>35 pts),57.7,65.3,7.7,Up 5+ pts,25.8,TIER 4 - LOW
+TUMWATER #13 413,245.0,80.6,72.4,44.9,Landslide (>35 pts),63.7,29.2,One-sided (20-35 pts),68.8,72.4,3.7,Up 2-5 pts,25.8,TIER 4 - LOW
+OLYMPIA #49 249,674.0,87.1,86.9,74.0,Landslide (>35 pts),54.1,10.1,Close (10-20 pts),87.5,86.9,-0.6,Flat (+/-2 pts),25.4,TIER 4 - LOW
+OLYMPIA #60 260,855.0,83.9,69.0,39.0,Landslide (>35 pts),66.5,37.2,Landslide (>35 pts),64.1,69.0,4.9,Up 2-5 pts,25.2,TIER 4 - LOW
+TUMWATER #15 415,929.0,83.8,69.0,38.4,Landslide (>35 pts),66.9,36.4,Landslide (>35 pts),62.8,69.0,6.3,Up 5+ pts,24.8,TIER 4 - LOW
+OLYMPIA #53 253,557.0,77.7,71.6,43.6,Landslide (>35 pts),62.8,28.1,One-sided (20-35 pts),64.8,71.6,6.7,Up 5+ pts,24.5,TIER 4 - LOW
+LACEY #6 306,282.0,71.0,65.1,32.2,One-sided (20-35 pts),64.1,32.1,One-sided (20-35 pts),52.8,65.1,12.4,Up 5+ pts,24.4,TIER 4 - LOW
+LACEY #1 301,432.0,78.0,68.5,37.5,Landslide (>35 pts),65.1,32.7,One-sided (20-35 pts),61.0,68.5,7.5,Up 5+ pts,24.3,TIER 4 - LOW
+LACEY #23 323,274.0,81.8,68.4,38.1,Landslide (>35 pts),67.6,37.8,Landslide (>35 pts),64.6,68.4,3.8,Up 2-5 pts,24.2,TIER 4 - LOW
+OLYMPIA #32 232,752.0,82.5,70.3,41.2,Landslide (>35 pts),66.2,36.1,Landslide (>35 pts),65.7,70.3,4.6,Up 2-5 pts,23.8,TIER 4 - LOW
+OLYMPIA #28 228,873.0,85.1,82.3,64.9,Landslide (>35 pts),57.2,15.7,Close (10-20 pts),79.1,82.3,3.2,Up 2-5 pts,23.6,TIER 4 - LOW
+BROADWAY 136,869.0,83.0,73.3,47.7,Landslide (>35 pts),61.3,25.2,One-sided (20-35 pts),64.3,73.3,9.0,Up 5+ pts,22.2,TIER 4 - LOW
+OLYMPIA #6 206,653.0,79.9,72.3,44.9,Landslide (>35 pts),65.5,32.5,One-sided (20-35 pts),67.2,72.3,5.1,Up 5+ pts,22.0,TIER 4 - LOW
+OLYMPIA #54 254,379.0,89.6,82.9,66.1,Landslide (>35 pts),58.9,18.9,Close (10-20 pts),81.8,82.9,1.1,Flat (+/-2 pts),21.1,TIER 4 - LOW
+OLYMPIA #35 235,973.0,87.0,74.9,50.1,Landslide (>35 pts),66.9,34.7,One-sided (20-35 pts),72.2,74.9,2.8,Up 2-5 pts,20.9,TIER 4 - LOW
+OLYMPIA #29 229,547.0,92.7,70.8,41.9,Landslide (>35 pts),70.1,41.6,Landslide (>35 pts),67.4,70.8,3.5,Up 2-5 pts,20.3,TIER 4 - LOW
+TUMWATER #7 407,516.0,86.6,69.2,38.5,Landslide (>35 pts),65.8,35.1,Landslide (>35 pts),59.6,69.2,9.5,Up 5+ pts,19.9,TIER 4 - LOW
+OLYMPIA #39 239,466.0,92.3,77.3,55.0,Landslide (>35 pts),63.0,27.7,One-sided (20-35 pts),73.0,77.3,4.2,Up 2-5 pts,19.6,TIER 4 - LOW
+SUNSET BEACH 175,729.0,90.6,74.7,49.7,Landslide (>35 pts),66.0,34.8,One-sided (20-35 pts),70.3,74.7,4.4,Up 2-5 pts,18.4,TIER 4 - LOW
+OLYMPIA #14 214,346.0,87.6,81.6,64.2,Landslide (>35 pts),57.3,18.4,Close (10-20 pts),77.4,81.6,4.2,Up 2-5 pts,18.3,TIER 4 - LOW
+COOPER POINT 134,523.0,90.8,71.5,42.9,Landslide (>35 pts),65.6,33.2,One-sided (20-35 pts),60.1,71.5,11.3,Up 5+ pts,17.5,TIER 4 - LOW
+TUMWATER #27 427,812.0,83.9,70.3,41.6,Landslide (>35 pts),68.1,38.6,Landslide (>35 pts),62.7,70.3,7.6,Up 5+ pts,17.0,TIER 4 - LOW
+OLYMPIA #26 226,459.0,88.1,87.8,76.1,Landslide (>35 pts),58.0,16.7,Close (10-20 pts),88.5,87.8,-0.6,Flat (+/-2 pts),15.9,TIER 4 - LOW
+OLYMPIA #50 250,565.0,79.9,83.6,67.7,Landslide (>35 pts),58.1,18.0,Close (10-20 pts),80.0,83.6,3.6,Up 2-5 pts,15.6,TIER 4 - LOW
+BOSTON HARBOR 102,626.0,90.2,76.3,53.1,Landslide (>35 pts),66.5,36.1,Landslide (>35 pts),73.4,76.3,2.9,Up 2-5 pts,15.4,TIER 4 - LOW
+OLYMPIA #15 215,662.0,84.8,85.4,71.2,Landslide (>35 pts),61.4,23.5,One-sided (20-35 pts),86.4,85.4,-1.1,Flat (+/-2 pts),15.0,TIER 4 - LOW
+OLYMPIA #56 256,762.0,85.1,73.8,47.8,Landslide (>35 pts),67.0,35.4,Landslide (>35 pts),66.2,73.8,7.6,Up 5+ pts,14.0,TIER 4 - LOW
+OLYMPIA #21 221,698.0,88.7,85.2,70.3,Landslide (>35 pts),61.0,23.0,One-sided (20-35 pts),83.7,85.2,1.4,Flat (+/-2 pts),13.6,TIER 4 - LOW
+OLYMPIA #8 208,511.0,89.2,77.8,55.7,Landslide (>35 pts),64.5,29.8,One-sided (20-35 pts),71.0,77.8,6.9,Up 5+ pts,12.4,TIER 4 - LOW
+OLYMPIA #40 240,393.0,91.2,76.3,52.6,Landslide (>35 pts),70.1,41.7,Landslide (>35 pts),75.3,76.3,1.0,Flat (+/-2 pts),12.3,TIER 4 - LOW
+FRENCH 174,540.0,92.0,80.9,61.9,Landslide (>35 pts),63.0,27.4,One-sided (20-35 pts),75.6,80.9,5.4,Up 5+ pts,11.5,TIER 4 - LOW
+TYKLE COVE 172,543.0,89.6,70.0,41.7,Landslide (>35 pts),69.6,43.6,Landslide (>35 pts),61.9,70.0,8.1,Up 5+ pts,11.0,TIER 4 - LOW
+OLYMPIA #4 204,860.0,84.3,81.1,62.6,Landslide (>35 pts),66.8,34.9,One-sided (20-35 pts),79.7,81.1,1.4,Flat (+/-2 pts),9.2,TIER 4 - LOW
+OLYMPIA #42 242,321.0,92.2,84.3,68.6,Landslide (>35 pts),63.9,28.8,One-sided (20-35 pts),83.0,84.3,1.3,Flat (+/-2 pts),8.7,TIER 4 - LOW
+OLYMPIA #10 210,515.0,91.0,89.3,79.3,Landslide (>35 pts),61.8,24.3,One-sided (20-35 pts),88.9,89.3,0.4,Flat (+/-2 pts),8.0,TIER 4 - LOW
+OLYMPIA #41 241,521.0,89.8,86.9,74.6,Landslide (>35 pts),66.6,35.1,Landslide (>35 pts),86.1,86.9,0.8,Flat (+/-2 pts),7.2,TIER 4 - LOW
+OLYMPIA #13 213,592.0,88.9,89.8,79.7,Landslide (>35 pts),58.7,17.5,Close (10-20 pts),86.9,89.8,2.8,Up 2-5 pts,7.1,TIER 4 - LOW
+OLYMPIA #11 211,425.0,86.4,90.0,80.2,Landslide (>35 pts),67.1,34.7,One-sided (20-35 pts),88.4,90.0,1.6,Flat (+/-2 pts),4.9,TIER 4 - LOW
+OLYMPIA #25 225,728.0,84.6,82.9,66.2,Landslide (>35 pts),69.1,39.5,Landslide (>35 pts),77.9,82.9,5.0,Up 5+ pts,0.8,TIER 4 - LOW
+LACEY #11 311,332.0,86.5,78.6,57.6,Landslide (>35 pts),73.9,51.2,Landslide (>35 pts),73.9,78.6,4.7,Up 2-5 pts,-0.1,TIER 4 - LOW
+OLYMPIA #52 252,268.0,85.9,86.7,74.2,Landslide (>35 pts),74.4,50.4,Landslide (>35 pts),81.6,86.7,5.0,Up 5+ pts,-1.0,TIER 4 - LOW
+LACEY #51 351,466.0,95.7,72.2,44.7,Landslide (>35 pts),75.5,51.4,Landslide (>35 pts),62.4,72.2,9.8,Up 5+ pts,-1.5,TIER 4 - LOW
+LACEY #47 347,1167.0,97.2,74.3,48.9,Landslide (>35 pts),79.1,59.6,Landslide (>35 pts),61.8,74.3,12.5,Up 5+ pts,-2.5,TIER 4 - LOW
+LACEY #10 310,538.0,94.2,84.2,68.3,Landslide (>35 pts),78.1,57.1,Landslide (>35 pts),75.8,84.2,8.4,Up 5+ pts,-3.3,TIER 4 - LOW
+LACEY #16 316,348.0,95.3,90.1,80.2,Landslide (>35 pts),80.6,61.8,Landslide (>35 pts),81.9,90.1,8.2,Up 5+ pts,-3.6,TIER 4 - LOW
